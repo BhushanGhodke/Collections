@@ -2,7 +2,7 @@ package com.demo.map;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//Create a hashmap and iterate it by using for each method
 public class Test1_HashMap {
 
 	public static void main(String[] args) {
